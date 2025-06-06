@@ -68,29 +68,41 @@
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=mem-ecommerce-project&theme=radical)](https://github.com/Sizzad-Hosen/mem-ecommerce-project)  
 🔗 [Live Demo](https://bdshopping.vercel.app/) | [Client Repo](https://github.com/Sizzad-Hosen/mern-ecommerce-project) | [Server Repo](https://github.com/Sizzad-Hosen/backend)  
 - **Features:** Product catalog, cart system, admin panel, order tracking  
-- **Tech Stack:** Next.js, Redux, Node.js, MongoDB, Stripe  
-- **Key Highlights:** Responsive UI, secure payments, JWT auth  
+- **Tech Stack:**  
+  - Frontend: Next.js, Redux Toolkit, Tailwind CSS  
+  - Backend: Node.js, Express, MongoDB  
+  - Payment: Stripe API  
+- **Key Highlights:**  
+  - Responsive mobile-first design  
+  - JWT authentication  
+  - Secure payment processing  
 
 ### 💼 Investor-Entrepreneur Network  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=tanvirgeek&repo=business-web-sizzad&theme=radical)](https://github.com/tanvirgeek/business-web-sizzad)  
-🔗 [Client Repo](https://github.com/tanvirgeek/business-web-sizzad)  
-- **Features:** Startup listings, investor matching, chat  
-- **Tech Stack:** Next.js, Next Auth, MongoDB, WebSockets  
-- **Key Highlights:** Real-time messaging, OAuth integration  
+🔗 [Client Repo](https://github.com/tanvirgeek/business-web-sizzad) | [Live Demo](#)  
+- **Features:**  
+  - Startup listings with filtering  
+  - Investor matching algorithm  
+  - Real-time chat system  
+- **Tech Stack:** Next.js, NextAuth, MongoDB, Socket.io  
+- **Key Highlights:**  
+  - OAuth integration (Google/GitHub)  
+  - WebSocket-based messaging  
+  - Protected routes  
 
 ### 🎓 University Management System  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=university-management-client&theme=radical)](https://github.com/Sizzad-Hosen/university-management-client)  
 🔗 [Client Repo](https://github.com/Sizzad-Hosen/university-management-client) | [Server Repo](https://github.com/Sizzad-Hosen/university-management-server)  
 - **Features:** Course enrollment, grade tracking, faculty dashboard  
-- **Tech Stack:** Next.js, Redux Toolkit, TypeScript, Node.js,Express js, MongoDB  
+- **Tech Stack:** Next.js, Redux Toolkit, TypeScript, Node.js, Express.js, MongoDB  
 - **Key Highlights:** JWT authentication, admin controls  
 
 ### 📚 Book Buy/Sell System  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=book-management-client&theme=radical)](https://github.com/Sizzad-Hosen/book-management-client)  
 🔗 [Client Repo](https://github.com/Sizzad-Hosen/book-management-client) | [Server Repo](https://github.com/Sizzad-Hosen/book-management-dashboard-backend)  
 - **Features:** Book listings, cart system, seller portal  
-- **Tech Stack:** Next.js, Redux Toolkit, TypeScript, Node.js, Express js, MongoDB  
-- **Key Highlights:** JWT authentication, Secure transactions, user ratings  
+- **Tech Stack:** Next.js, Redux Toolkit, TypeScript, Node.js, Express.js, MongoDB  
+- **Key Highlights:** JWT authentication, secure transactions, user ratings  
 
 ### 🏫 Student Management System  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=student-management&theme=radical)](https://github.com/Sizzad-Hosen/student-management)  
