@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sizzad-Hosen/Sizzad-Hosen/main/profile-banner.png](https://github.com/Sizzad-Hosen/Sizzad-Hosen/blob/main/Md%20Sizzad%20Hosen%20(1).png" alt="Banner" width="100%" />
+  <img src="https://github.com/Sizzad-Hosen/Sizzad-Hosen/blob/main/Md%20Sizzad%20Hosen%20(1).png" alt="Banner" width="100%" />
 </div>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Sizzad-Hosen/Sizzad-Hosen/blob/main/coding.gif">
