@@ -40,9 +40,9 @@
 ## 🛠️ Technical Skills
 <div align="center" style="background:linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);padding:20px;border-radius:10px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">
   
-| Frontend | Backend | Databases | Tools & Others |
-|----------|---------|-----------|----------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) | ![DSA](https://img.shields.io/badge/DSA-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-FF6B00?style=for-the-badge&logo=java&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI/ML-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| Frontend | Backend | Databases | DevOps & Tools | Languages | Courses & Certifications |
+|----------|---------|-----------|----------------|-----------|--------------------------|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Programming Hero](https://img.shields.io/badge/Programming_Hero-FF5722?style=for-the-badge&logo=codeigniter&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white) ![AI Basics](https://img.shields.io/badge/AI_Intelligence-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white) ![BD Management](https://img.shields.io/badge/BD_Management-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white) |
 
 </div>
 
@@ -66,22 +66,22 @@
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=mem-ecommerce-project&theme=radical)](https://github.com/Sizzad-Hosen/mem-ecommerce-project)  
 🔗 [Live Demo](https://bdshopping.vercel.app/)  
 - Full-featured online store with admin dashboard
-- **Tech:** Next.js, Redux, Express.js, Node.js, MongoDB, Stripe API
+- **Tech:** Next.js, Redux, Express.js, Node.js, MongoDB, Stripe API, JWT Authentication
 
 ### 💼 Investor-Entrepreneur Network
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=tanvirgeek&repo=business-web-sizzad&theme=radical)](https://github.com/tanvirgeek/business-web-sizzad)  
 - Platform connecting investors with startups
-- **Tech:** Next.js, MongoDB, WebSockets
+- **Tech:** Next.js, Next Auth, MongoDB, WebSockets
 
 ### 🎓 University Management System
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=university-management-client&theme=radical)](https://github.com/Sizzad-Hosen/university-management-client)  
 - Student/faculty portal with course management
-- **Tech:** Next.js, Redux Toolkit, TypeScript, Node.js, MongoDB
+- **Tech:** Next.js, Redux Toolkit, TypeScript, Node.js, MongoDB , JWT Authentication
 
 ### 📚 Book Buy/Sell System
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=book-management-client&theme=radical)](https://github.com/Sizzad-Hosen/book-management-client)  
 - Platform for buying and selling books
-- **Tech:** Next.js, Redux Toolkit, Node.js, MongoDB
+- **Tech:** Next.js, Redux Toolkit, TypeScript, Node.js, MongoDB , JWT Authentication
 
 ### 🏫 Student Management System
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=student-management&theme=radical)](https://github.com/Sizzad-Hosen/student-management)  
