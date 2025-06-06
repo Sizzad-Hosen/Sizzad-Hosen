@@ -50,43 +50,54 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
 
-### 🔧 Car Services Platform
+### 🔧 Car Services Platform  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=car-doctor-server&theme=radical)](https://github.com/Sizzad-Hosen/car-doctor-server)  
-🔗 [Live Demo](https://car-doctor-website-346e1.web.app/)  
-- Online car service booking system with payment integration
-- **Tech:** React, Node.js, MongoDB, Firebase
+🔗 [Live Demo](https://car-doctor-website-346e1.web.app/) | [Client Repo](https://github.com/Sizzad-Hosen/car-doctor-client) | [Server Repo](https://github.com/Sizzad-Hosen/car-doctor-server)  
+- **Features:** Online booking, payment integration, service tracking  
+- **Tech Stack:** React, Node.js, Express, MongoDB, Firebase, Stripe API  
+- **Key Highlights:** JWT authentication, admin dashboard, real-time updates  
 
-### 🍽️ Restaurant Management System
+### �️ Restaurant Management System  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=resturent-server&theme=radical)](https://github.com/Sizzad-Hosen/resturent-server)  
-🔗 [Live Demo](https://resturent-website-8f90d.web.app/)  
-- Comprehensive restaurant operations management
-- **Tech:** MERN Stack, JWT Authentication
+🔗 [Live Demo](https://resturent-website-8f90d.web.app/) | [Client Repo](https://github.com/Sizzad-Hosen/resturent-client) | [Server Repo](https://github.com/Sizzad-Hosen/resturent-server)  
+- **Features:** Menu management, order tracking, staff portal  
+- **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)  
+- **Key Highlights:** Role-based access, real-time order updates  
 
-### 🛒 E-Commerce Platform
+### 🛒 E-Commerce Platform  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=mem-ecommerce-project&theme=radical)](https://github.com/Sizzad-Hosen/mem-ecommerce-project)  
-🔗 [Live Demo](https://bdshopping.vercel.app/)  
-- Full-featured online store with admin dashboard
-- **Tech:** Next.js, Redux, Express.js, Node.js, MongoDB, Stripe API, JWT Authentication
+🔗 [Live Demo](https://bdshopping.vercel.app/) | [Full Stack Repo](https://github.com/Sizzad-Hosen/mem-ecommerce-project)  
+- **Features:** Product catalog, cart system, admin panel  
+- **Tech Stack:** Next.js, Redux, Node.js, MongoDB, Stripe  
+- **Key Highlights:** Responsive UI, secure payments, JWT auth  
 
-### 💼 Investor-Entrepreneur Network
+### 💼 Investor-Entrepreneur Network  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=tanvirgeek&repo=business-web-sizzad&theme=radical)](https://github.com/tanvirgeek/business-web-sizzad)  
-- Platform connecting investors with startups
-- **Tech:** Next.js, Next Auth, MongoDB, WebSockets
+🔗 [Live Demo](#) | [Client Repo](https://github.com/tanvirgeek/business-web-sizzad)  
+- **Features:** Startup listings, investor matching, chat  
+- **Tech Stack:** Next.js, NextAuth, MongoDB, WebSockets  
+- **Key Highlights:** Real-time messaging, OAuth integration  
 
-### 🎓 University Management System
+### 🎓 University Management System  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=university-management-client&theme=radical)](https://github.com/Sizzad-Hosen/university-management-client)  
-- Student/faculty portal with course management
-- **Tech:** Next.js, Redux Toolkit, TypeScript, Node.js, MongoDB , JWT Authentication
+🔗 [Client Repo](https://github.com/Sizzad-Hosen/university-management-client) | [Server Repo](https://github.com/Sizzad-Hosen/university-management-server)  
+- **Features:** Course enrollment, grade tracking, faculty dashboard  
+- **Tech Stack:** Next.js, TypeScript, Node.js, MongoDB  
+- **Key Highlights:** Redux state management, JWT security  
 
-### 📚 Book Buy/Sell System
+### 📚 Book Buy/Sell System  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=book-management-client&theme=radical)](https://github.com/Sizzad-Hosen/book-management-client)  
-- Platform for buying and selling books
-- **Tech:** Next.js, Redux Toolkit, TypeScript, Node.js, MongoDB , JWT Authentication
+🔗 [Client Repo](https://github.com/Sizzad-Hosen/book-management-client) | [Server Repo](https://github.com/Sizzad-Hosen/book-management-dashboard-backend)  
+- **Features:** Book listings, cart system, seller portal  
+- **Tech Stack:** Next.js, Redux Toolkit, Node.js, MongoDB  
+- **Key Highlights:** TypeScript integration, secure auth  
 
-### 🏫 Student Management System
+### 🏫 Student Management System  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=student-management&theme=radical)](https://github.com/Sizzad-Hosen/student-management)  
-- Student management system with CRUD operations
-- **Tech:** C programming language
+🔗 [GitHub Repo](https://github.com/Sizzad-Hosen/student-management)  
+- **Features:** CRUD operations, data persistence  
+- **Tech Stack:** C Programming, File I/O  
+- **Key Highlights:** Console-based, lightweight  
 
 </div>
 
