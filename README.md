@@ -65,7 +65,7 @@
 - **Key Highlights:** Role-based access, real-time order updates  
 
 ### 🛒 E-Commerce Platform  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=mem-ecommerce-project&theme=radical)](https://github.com/Sizzad-Hosen/backend)  
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=backend&theme=radical)](https://github.com/Sizzad-Hosen/backend)  
 🔗 [Live Demo](https://bdshopping.vercel.app/) | [Client Repo](https://github.com/Sizzad-Hosen/mern-ecommerce-project) | [Server Repo](https://github.com/Sizzad-Hosen/backend)  
 - **Features:** Product catalog, cart system, admin panel, order tracking  
 - **Tech Stack:** Next.js, Redux, Node.js, MongoDB, Stripe  
