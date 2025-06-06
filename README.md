@@ -3,10 +3,10 @@
 </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sizzad-Hosen/Sizzad-Hosen/main/Md%20Sizzad%20Hosen%20(1).png" alt="Banner" width="600" />
+  <img src="https://raw.githubusercontent.com/Sizzad-Hosen/Sizzad-Hosen/main/profile-banner.png" alt="Banner" width="100%" />
 </div>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" alt="coding" width="400" src="https://github.com/Sizzad-Hosen/Sizzad-Hosen/blob/main/coding.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sizzad-hosen&label=Profile%20views&color=0e75b6&style=flat" alt="sizzad-hosen" /> 
@@ -64,18 +64,21 @@
 
 ### 5. University Management System
 🔗 [GitHub Repo Client](https://github.com/Sizzad-Hosen/university-management-client)  
-   [Github Repo Server (https://github.com/Sizzad-Hosen/university-management-server).
+🔗 [GitHub Repo Server](https://github.com/Sizzad-Hosen/university-management-server)  
 - Student/faculty portal with course management
-- Tech: Next js , Redux Toolkit, Ts, Node.js,Express js, Mongodb, Mongoose, JWT Authentication
+- Tech: Next.js, Redux Toolkit, TypeScript, Node.js, Express.js, MongoDB, Mongoose, JWT Authentication
+
 ### 6. Book Buy and Sell Management System
 🔗 [GitHub Repo Client](https://github.com/Sizzad-Hosen/book-management-client)  
- [GitHub Repo Server](https://github.com/Sizzad-Hosen/book-management-dashboard-backend)  
-- Student/faculty portal with course management
-- Tech:  Next js , Redux Toolkit, Ts, Node.js, Express js, Mongodb, Mongoose, JWT Authentication
+🔗 [GitHub Repo Server](https://github.com/Sizzad-Hosen/book-management-dashboard-backend)  
+- Platform for buying and selling books
+- Tech: Next.js, Redux Toolkit, TypeScript, Node.js, Express.js, MongoDB, Mongoose, JWT Authentication
+
 ### 7. Student Management System
-[GitHub Repo ](https://github.com/Sizzad-Hosen/student-management))  
--Student management system that user can add there name, id , department , cgpa item that can update, delete , create , read.
--C language 
+🔗 [GitHub Repo](https://github.com/Sizzad-Hosen/student-management)  
+- Student management system with CRUD operations
+- Tech: C programming language
+
 ## 📊 GitHub Stats
 <div align="center">
   
@@ -89,5 +92,5 @@
 
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sizzad-Hosen/Sizzad-Hosen/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Sizzad-Hosen/Sizzad-Hosen/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
