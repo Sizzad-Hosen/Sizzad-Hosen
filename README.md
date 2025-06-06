@@ -57,7 +57,7 @@
 - **Tech Stack:** React, Node.js, Express, MongoDB, Firebase, Stripe API  
 - **Key Highlights:** JWT authentication, admin dashboard, real-time updates  
 
-### �️ Restaurant Management System  
+### 🍽️ Restaurant Management System  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=resturent-server&theme=radical)](https://github.com/Sizzad-Hosen/resturent-server)  
 🔗 [Live Demo](https://resturent-website-8f90d.web.app/) | [Client Repo](https://github.com/Sizzad-Hosen/resturent-client) | [Server Repo](https://github.com/Sizzad-Hosen/resturent-server)  
 - **Features:** Menu management, order tracking, staff portal  
@@ -66,38 +66,38 @@
 
 ### 🛒 E-Commerce Platform  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=mem-ecommerce-project&theme=radical)](https://github.com/Sizzad-Hosen/mem-ecommerce-project)  
-🔗 [Live Demo](https://bdshopping.vercel.app/) | [Full Stack Repo](https://github.com/Sizzad-Hosen/mem-ecommerce-project)  
-- **Features:** Product catalog, cart system, admin panel  
+🔗 [Live Demo](https://bdshopping.vercel.app/) | [Client Repo](https://github.com/Sizzad-Hosen/mern-ecommerce-project) | [Server Repo](https://github.com/Sizzad-Hosen/backend)  
+- **Features:** Product catalog, cart system, admin panel, order tracking  
 - **Tech Stack:** Next.js, Redux, Node.js, MongoDB, Stripe  
 - **Key Highlights:** Responsive UI, secure payments, JWT auth  
 
 ### 💼 Investor-Entrepreneur Network  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=tanvirgeek&repo=business-web-sizzad&theme=radical)](https://github.com/tanvirgeek/business-web-sizzad)  
-🔗 [Live Demo](#) | [Client Repo](https://github.com/tanvirgeek/business-web-sizzad)  
+🔗 [Client Repo](https://github.com/tanvirgeek/business-web-sizzad)  
 - **Features:** Startup listings, investor matching, chat  
-- **Tech Stack:** Next.js, NextAuth, MongoDB, WebSockets  
+- **Tech Stack:** Next.js, Next Auth, MongoDB, WebSockets  
 - **Key Highlights:** Real-time messaging, OAuth integration  
 
 ### 🎓 University Management System  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=university-management-client&theme=radical)](https://github.com/Sizzad-Hosen/university-management-client)  
 🔗 [Client Repo](https://github.com/Sizzad-Hosen/university-management-client) | [Server Repo](https://github.com/Sizzad-Hosen/university-management-server)  
 - **Features:** Course enrollment, grade tracking, faculty dashboard  
-- **Tech Stack:** Next.js, TypeScript, Node.js, MongoDB  
-- **Key Highlights:** Redux state management, JWT security  
+- **Tech Stack:** Next.js, Redux Toolkit, TypeScript, Node.js,Express js, MongoDB  
+- **Key Highlights:** JWT authentication, admin controls  
 
 ### 📚 Book Buy/Sell System  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=book-management-client&theme=radical)](https://github.com/Sizzad-Hosen/book-management-client)  
 🔗 [Client Repo](https://github.com/Sizzad-Hosen/book-management-client) | [Server Repo](https://github.com/Sizzad-Hosen/book-management-dashboard-backend)  
 - **Features:** Book listings, cart system, seller portal  
-- **Tech Stack:** Next.js, Redux Toolkit, Node.js, MongoDB  
-- **Key Highlights:** TypeScript integration, secure auth  
+- **Tech Stack:** Next.js, Redux Toolkit, TypeScript, Node.js, Express js, MongoDB  
+- **Key Highlights:** JWT authentication, Secure transactions, user ratings  
 
 ### 🏫 Student Management System  
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=student-management&theme=radical)](https://github.com/Sizzad-Hosen/student-management)  
 🔗 [GitHub Repo](https://github.com/Sizzad-Hosen/student-management)  
 - **Features:** CRUD operations, data persistence  
-- **Tech Stack:** C Programming, File I/O  
-- **Key Highlights:** Console-based, lightweight  
+- **Tech Stack:** C programming language  
+- **Key Highlights:** Lightweight, efficient data handling  
 
 </div>
 
