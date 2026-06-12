@@ -1,120 +1,226 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BCF7&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Md+Sizzad+Hosen;Software+Engineer+at+Shefra;Full+Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Typing animation" />
-</h1>
+from pathlib import Path
 
-<div align="center">
-  <img src="https://github.com/Sizzad-Hosen/Sizzad-Hosen/blob/main/Md%20Sizzad%20Hosen%20(1).png" alt="Banner" width="100%" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);"/>
-</div>
+readme_content = """# Md. Sizzad Hosen
 
-<img align="right" alt="coding" width="400" src="https://github.com/Sizzad-Hosen/Sizzad-Hosen/blob/main/coding.gif" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+## Full Stack Developer | Next.js | Node.js | TypeScript | MERN | PostgreSQL
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sizzad-hosen&label=Profile%20views&color=0e75b6&style=flat" alt="sizzad-hosen" /> 
-  <a href="https://github.com/Sizzad-Hosen?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sizzad-Hosen?label=Followers&style=social" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/Sizzad-Hosen?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-30+-blue?style=flat&logo=github" alt="Repositories">
-  </a>
-</p>
+I build production-ready full stack web applications using Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, authentication systems, dashboards, e-commerce workflows, and real-time features.
 
-## 🌟 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-sizzad-hosen-5a2618301/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/sizzadhosen/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/Sizzad_Hosen" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="mailto:sizzadhosen@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Sizzad-Hosen" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+I focus on building scalable APIs, clean UI, secure authentication, role-based access control, dashboard systems, and maintainable backend architecture. I have 2+ years of part-time, internship, and professional development experience working with modern JavaScript and TypeScript technologies.
 
-## 🛠️ Technical Skills
-<div align="center" style="background:linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);padding:20px;border-radius:10px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">
-  
-| Frontend | Backend | Databases | DevOps & Tools | Languages | Core CS Concepts |
-|----------|---------|-----------|----------------|-----------|------------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![System Design](https://img.shields.io/badge/System_Design-FF6B00?style=for-the-badge&logo=diagramsdotnet&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-FF6B00?style=for-the-badge&logo=java&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white) ![Problem Solving](https://img.shields.io/badge/Problem_Solving-009688?style=for-the-badge&logo=codechef&logoColor=white) |
+Based in Rangpur, Bangladesh.
 
-</div>
+---
 
-## 🚀 Featured Projects
+## Contact
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
+- **Portfolio:** [md-sizzad-hosen-portfolio.vercel.app](https://md-sizzad-hosen-portfolio.vercel.app)
+- **LinkedIn:** [linkedin.com/in/md-sizzad-hosen-5a2618301](https://www.linkedin.com/in/md-sizzad-hosen-5a2618301/)
+- **GitHub:** [github.com/Sizzad-Hosen](https://github.com/Sizzad-Hosen)
+- **Email:** [sizzadhosen@gmail.com](mailto:sizzadhosen@gmail.com)
+- **Resume:** Add your resume link here
 
-### 🔧 Car Services Platform  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=car-doctor-server&theme=radical)](https://github.com/Sizzad-Hosen/car-doctor-server)  
-🔗 [Live Demo](https://car-doctor-website-346e1.web.app/) | [Client Repo](https://github.com/Sizzad-Hosen/car-doctor-client) | [Server Repo](https://github.com/Sizzad-Hosen/car-doctor-server)  
-- **Features:** Online booking, payment integration, service tracking  
-- **Tech Stack:** React, Node.js, Express, MongoDB, Firebase, Stripe API  
-- **Key Highlights:** JWT authentication, admin dashboard, real-time updates  
+---
 
-### 🍽️ Restaurant Management System  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=resturent-server&theme=radical)](https://github.com/Sizzad-Hosen/resturent-server)  
-🔗 [Live Demo](https://resturent-website-8f90d.web.app/) | [Client Repo](https://github.com/Sizzad-Hosen/resturent-client) | [Server Repo](https://github.com/Sizzad-Hosen/resturent-server)  
-- **Features:** Menu management, order tracking, staff portal  
-- **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)  
-- **Key Highlights:** Role-based access, real-time order updates  
+## Tech Stack
 
-### 🛒 E-Commerce Platform  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=backend&theme=radical)](https://github.com/Sizzad-Hosen/backend)  
-🔗 [Live Demo](https://bdshopping.vercel.app/) | [Client Repo](https://github.com/Sizzad-Hosen/mern-ecommerce-project) | [Server Repo](https://github.com/Sizzad-Hosen/backend)  
-- **Features:** Product catalog, cart system, admin panel, order tracking  
-- **Tech Stack:** Next.js, Redux, Node.js, MongoDB, Stripe  
-- **Key Highlights:** Responsive UI, secure payments, JWT auth  
+### Frontend
+React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, RTK Query, Tailwind CSS, Shadcn UI, Radix UI, React Hook Form, Zod
 
-### 💼 Investor-Entrepreneur Network  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=tanvirgeek&repo=business-web-sizzad&theme=radical)](https://github.com/tanvirgeek/business-web-sizzad)  
-🔗 [Client Repo](https://github.com/tanvirgeek/business-web-sizzad)  
-- **Features:** Startup listings, investor matching, chat  
-- **Tech Stack:** Next.js, Next Auth, MongoDB, WebSockets  
-- **Key Highlights:** Real-time messaging, OAuth integration  
+### Backend
+Node.js, Express.js, REST API, GraphQL, JWT, OAuth, Socket.io, LiveKit, Redis, API validation, error handling, modular backend architecture
 
-### 🎓 University Management System  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=university-management-client&theme=radical)](https://github.com/Sizzad-Hosen/university-management-client)  
-🔗 [Client Repo](https://github.com/Sizzad-Hosen/university-management-client) | [Server Repo](https://github.com/Sizzad-Hosen/university-management-server)  
-- **Features:** Course enrollment, grade tracking, faculty dashboard  
-- **Tech Stack:** Next.js, Redux Toolkit, TypeScript, Node.js,Express js, MongoDB  
-- **Key Highlights:** JWT authentication, admin controls  
+### Database
+MongoDB, Mongoose, PostgreSQL, Prisma ORM, database schema design, query optimization basics
 
-### 📚 Book Buy/Sell System  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=book-management-client&theme=radical)](https://github.com/Sizzad-Hosen/book-management-client)  
-🔗 [Client Repo](https://github.com/Sizzad-Hosen/book-management-client) | [Server Repo](https://github.com/Sizzad-Hosen/book-management-dashboard-backend)  
-- **Features:** Book listings, cart system, seller portal  
-- **Tech Stack:** Next.js, Redux Toolkit, TypeScript, Node.js, Express js, MongoDB  
-- **Key Highlights:** JWT authentication, Secure transactions, user ratings  
+### Authentication & Security
+JWT authentication, refresh token flow, role-based access control, protected routes, password hashing, OAuth, secure API middleware, CORS, Helmet, rate limiting basics
 
-### 🏫 Student Management System  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizzad-Hosen&repo=student-management&theme=radical)](https://github.com/Sizzad-Hosen/student-management)  
-🔗 [GitHub Repo](https://github.com/Sizzad-Hosen/student-management)  
-- **Features:** CRUD operations, data persistence  
-- **Tech Stack:** C programming language  
-- **Key Highlights:** Lightweight, efficient data handling  
+### Testing
+Playwright, Vitest, Jest, Supertest, API smoke testing, unit testing basics
 
-</div>
+### DevOps & Tools
+Git, GitHub, Postman, Docker basics, CI/CD basics, Vercel, Render, Firebase, NGINX basics, AWS S3, Cloudinary
 
-## 📊 GitHub Stats
+### Currently Exploring
+Advanced Next.js, backend architecture, PostgreSQL + Prisma, testing with Playwright/Vitest, Docker, deployment workflows, system design basics
 
-<div align="center" style="margin-top:30px;">
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sizzad-Hosen&theme=radical&border_radius=10&mode=weekly&fire=DD4724&ring=DD9124)](https://git.io/streak-stats)
+## Featured Projects
 
-<div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sizzad-Hosen&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius:10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sizzad-Hosen&layout=compact&theme=radical&langs_count=8" alt="Top Languages" style="border-radius:10px;"/>
-</div>
+### ClickeiBazar / E-commerce Marketplace
 
-</div>
+A multi-vendor e-commerce marketplace focused on product browsing, seller/admin workflows, authentication, dashboard management, and order-based business operations.
 
-<!-- Snake animation -->
-<div align="center" style="margin-top:30px;">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
+**Live Site:** Add live site link here  
+**Client Code:** [github.com/Sizzad-Hosen/clickei_bazer_client](https://github.com/Sizzad-Hosen/clickei_bazer_client)  
+**Server Code:** Add correct server repo link here  
+
+**Tech Stack:** Next.js, TypeScript, React, Redux Toolkit, Tailwind CSS, Radix UI, Shadcn-style components, Node.js, Express.js, MongoDB, Mongoose
+
+**Key Features:**
+
+- Multi-vendor marketplace structure
+- Product listing and product management
+- Authentication and protected routes
+- User, seller, and admin dashboard workflow
+- Cart, order, and business-management flow
+- Responsive e-commerce UI
+
+**Technical Highlights:**
+
+- Built with modern Next.js and TypeScript
+- Uses Redux Toolkit for scalable client-side state management
+- Dashboard-focused architecture for real business workflows
+- Designed for marketplace-style product and user management
+- Clean UI structure suitable for production e-commerce expansion
+
+---
+
+### AI Meeting Platform / Meet App
+
+A meeting and collaboration platform with authentication, real-time room communication, meeting management, waiting room controls, breakout rooms, polls, screen sharing, recording workflow, and LiveKit integration.
+
+**Live Site:** Add live site link here  
+**Client Code:** [github.com/Sizzad-Hosen/meet-app-frontend](https://github.com/Sizzad-Hosen/meet-app-frontend)  
+**Server Code:** [github.com/Sizzad-Hosen/meet-apps-backend](https://github.com/Sizzad-Hosen/meet-apps-backend)  
+
+**Tech Stack:** Next.js, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, Socket.io, LiveKit, JWT, Redis, AWS S3, Jest, Supertest, Docker
+
+**Key Features:**
+
+- User registration, login, refresh token, logout, and password reset flow
+- Meeting creation, joining, admission, moderation, and ending
+- Waiting room management
+- Breakout room workflow
+- Poll creation, voting, result tracking, and closing
+- Screen sharing and recording workflow
+- LiveKit token and webhook integration
+- Real-time room events with Socket.io
+
+**Technical Highlights:**
+
+- Modular backend structure with feature-based modules
+- PostgreSQL database integration using Prisma ORM
+- JWT-based authentication and protected API routes
+- Socket.io-based real-time communication
+- LiveKit integration for real-time meeting infrastructure
+- Jest and Supertest setup for backend testing
+- Docker support for local infrastructure setup
+- AI summary and action insights can be added as a future enhancement once implemented
+
+---
+
+### Restaurant Management System
+
+A restaurant management web application for handling menu, order, reservation, payment, and dashboard-based restaurant operations.
+
+**Live Site:** [resturent-website-8f90d.web.app](https://resturent-website-8f90d.web.app/)  
+**Client Code:** [github.com/Sizzad-Hosen/resturent-client](https://github.com/Sizzad-Hosen/resturent-client)  
+**Server Code:** [github.com/Sizzad-Hosen/resturent-server](https://github.com/Sizzad-Hosen/resturent-server)  
+
+**Tech Stack:** React, Vite, JavaScript, Tailwind CSS, DaisyUI, Firebase, TanStack Query, Axios, Node.js, Express.js, MongoDB, JWT, Stripe
+
+**Key Features:**
+
+- Restaurant menu management
+- Order and reservation workflow
+- User authentication
+- Payment flow with Stripe
+- Admin/user dashboard structure
+- Responsive restaurant UI
+
+**Technical Highlights:**
+
+- Uses Firebase authentication on the client side
+- Uses JWT for protected backend routes
+- Integrates Stripe payment flow
+- Uses MongoDB for restaurant data management
+- Uses TanStack Query and Axios for API data handling
+- Deployed frontend with Firebase hosting
+
+---
+
+### Health Care Appointment Platform
+
+A healthcare appointment platform with admin, doctor, and patient workflows. The system includes appointment booking, doctor schedules, prescriptions, reviews, payments, file uploads, and role-based access control.
+
+**Live Site:** Add live site link here  
+**Client Code:** [github.com/Sizzad-Hosen/health-care-client](https://github.com/Sizzad-Hosen/health-care-client)  
+**Server Code:** [github.com/Sizzad-Hosen/Health_Care_Server](https://github.com/Sizzad-Hosen/Health_Care_Server)  
+
+**Tech Stack:** Next.js, TypeScript, Redux Toolkit, RTK Query, Tailwind CSS, Shadcn-style UI, Node.js, Express.js, PostgreSQL, Prisma, JWT, Zod, Cloudinary, SSLCommerz, Supertest
+
+**Key Features:**
+
+- Admin, doctor, and patient role-based workflows
+- User authentication and protected routes
+- Doctor schedule management
+- Appointment booking system
+- Prescription and review management
+- Payment initialization and validation with SSLCommerz
+- File uploads with Cloudinary
+- Dashboard UI for different user roles
+
+**Technical Highlights:**
+
+- PostgreSQL database integration with Prisma ORM
+- Role-based access control for healthcare workflows
+- Centralized error handling and validation
+- Zod-based environment and input validation
+- API smoke tests and service unit tests
+- Incremental controller-service-repository architecture
+- Production-focused backend improvements such as health check endpoint and graceful shutdown
+
+---
+
+## What I Can Bring to a Team
+
+- Build responsive and scalable full stack web applications
+- Create secure REST APIs with clean backend structure
+- Implement authentication and role-based access control
+- Build dashboards for admin, user, seller, doctor, or patient workflows
+- Debug and fix frontend/backend production issues
+- Write clean, maintainable TypeScript and JavaScript code
+- Work with MongoDB, PostgreSQL, Mongoose, and Prisma
+- Optimize APIs, database queries, and application performance
+- Learn fast, communicate clearly, and contribute consistently
+
+---
+
+## Coding Practice
+
+- **LeetCode:** 100+ problems solved
+- **Codeforces:** 100+ problems solved
+- **Focus Areas:** problem solving, arrays, strings, recursion, DP basics, graph basics, backend logic
+
+Profiles:
+
+- **LeetCode:** [leetcode.com/u/sizzadhosen](https://leetcode.com/u/sizzadhosen/)
+- **Codeforces:** [codeforces.com/profile/Sizzad_Hosen](https://codeforces.com/profile/Sizzad_Hosen)
+
+---
+
+## Current Focus
+
+- Advanced Next.js
+- Backend architecture
+- PostgreSQL + Prisma
+- Testing with Playwright, Vitest, Jest, and Supertest
+- Docker and deployment
+- API optimization
+- System design basics
+
+---
+
+## Open to Work
+
+I’m open to **Junior Full Stack Developer**, **MERN Developer**, **Next.js Developer**, and **Node.js Backend Developer** roles.
+
+I am especially interested in teams building dashboards, e-commerce platforms, SaaS products, healthcare systems, real-time apps, and scalable web applications.
+"""
+
+path = Path("/mnt/data/README.md")
+path.write_text(readme_content, encoding="utf-8")
+path.as_posix()
