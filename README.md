@@ -345,7 +345,10 @@ A healthcare appointment platform with admin, doctor, and patient workflows. The
 
 I’m open to **Junior/Mid Full Stack Developer**, **MERN Developer**, **Next.js Developer**, and **Node.js Backend Developer** roles.
 
-I am especially interested in teams building dashboards, e-commerce platforms, SaaS products, healthcare systems, real-time apps, and scalable web applications.
+I’m especially interested in building **optimized, scalable, and clean-architecture web applications**, including dashboards, e-commerce platforms, SaaS products, healthcare systems, real-time applications, and backend systems that can scale efficiently in a short time.
+
+I also use modern AI development tools like **Cursor, Claude, and Codex** to improve development speed, code quality, debugging, and productivity.
+
 
 <p align="center">
   <a href="mailto:sizzadhosen@gmail.com">
