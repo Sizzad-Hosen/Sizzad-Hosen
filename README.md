@@ -30,10 +30,10 @@ I build production-ready full stack web applications using **Next.js, Node.js, T
 
 I focus on building scalable APIs, clean UI, secure authentication, role-based access control, dashboard systems, and maintainable backend architecture.
 
-I have **2+ years of part-time, internship, and professional development experience** working with modern JavaScript and TypeScript technologies.
+I have **2+ years of hand on project client and professional development experience** working with modern JavaScript and TypeScript technologies.
 
 📍 Rangpur, Bangladesh
-🎯 Open to Junior Full Stack / MERN / Next.js / Node.js Backend Developer roles
+🎯 Open to work Full Stack / MERN / Next.js / Node.js Backend Developer roles
 
 <br clear="right"/>
 
@@ -87,6 +87,8 @@ I have **2+ years of part-time, internship, and professional development experie
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logo=livekit&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 ### Database
@@ -97,6 +99,8 @@ I have **2+ years of part-time, internship, and professional development experie
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 </p>
 
 ### Authentication, Testing, DevOps & Tools
@@ -131,7 +135,7 @@ A multi-vendor e-commerce marketplace focused on product browsing, seller/admin 
   <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20MongoDB-black?style=flat-square" />
 </p>
 
-**Live Site:** Not provided yet
+**Live Site:** http://clickeibazar.com/
 **Client Code:** [github.com/Sizzad-Hosen/clickei_bazer_client](https://github.com/Sizzad-Hosen/clickei_bazer_client)
 **Server Code:** Not public yet
 
@@ -145,6 +149,7 @@ A multi-vendor e-commerce marketplace focused on product browsing, seller/admin 
 * User, seller, and admin dashboard workflow
 * Cart, order, and business-management flow
 * Responsive e-commerce UI
+* Customize Bazar features add
 
 **Technical Highlights:**
 
@@ -173,7 +178,7 @@ A meeting and collaboration platform with authentication, real-time room communi
 **Tech Stack:** Next.js, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, Socket.io, LiveKit, JWT, Redis, AWS S3, Jest, Supertest, Docker
 
 **Key Features:**
-
+* AI-powered meeting summary, discussion insights, key decisions, action items, and task assignment support. 
 * User registration, login, refresh token, logout, and password reset flow
 * Meeting creation, joining, admission, moderation, and ending
 * Waiting room management
@@ -338,7 +343,7 @@ A healthcare appointment platform with admin, doctor, and patient workflows. The
 
 ## Open to Work
 
-I’m open to **Junior Full Stack Developer**, **MERN Developer**, **Next.js Developer**, and **Node.js Backend Developer** roles.
+I’m open to **Junior/Mid Full Stack Developer**, **MERN Developer**, **Next.js Developer**, and **Node.js Backend Developer** roles.
 
 I am especially interested in teams building dashboards, e-commerce platforms, SaaS products, healthcare systems, real-time apps, and scalable web applications.
 
